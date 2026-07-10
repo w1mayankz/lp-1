@@ -1,4 +1,3 @@
-import React from 'react';
 import { HoverButton } from '../ui/HoverButton';
 
 export function About() {

@@ -1,4 +1,3 @@
-import React from 'react';
 import { Swirl, ChromaFlow, FlutedGlass, FilmGrain } from 'shaders/react';
 import { Navbar } from '../layout/Navbar';
 import { HoverButton } from '../ui/HoverButton';

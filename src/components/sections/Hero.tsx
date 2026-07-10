@@ -1,4 +1,6 @@
-import { Swirl, ChromaFlow, FlutedGlass, FilmGrain } from 'shaders/react';
+import React from 'react';
+// 1. ADD 'Shader' TO THIS IMPORT
+import { Shader, Swirl, ChromaFlow, FlutedGlass, FilmGrain } from 'shaders/react';
 import { Navbar } from '../layout/Navbar';
 import { HoverButton } from '../ui/HoverButton';
 import { PartnerBadge } from '../ui/PartnerBadge';
